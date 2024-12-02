@@ -1,0 +1,23 @@
+[ 2024-12-02 09:53:04,947 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-12-02 09:53:04,959 ] 96 werkzeug - INFO -  * Debugger PIN: 618-546-018
+[ 2024-12-02 09:53:15,371 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:53:15] "GET / HTTP/1.1" 200 -
+[ 2024-12-02 09:53:15,642 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:53:15] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2024-12-02 09:53:15,893 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:53:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-12-02 09:53:18,779 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:53:18] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-12-02 09:53:18,862 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:53:18] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-12-02 09:54:37,990 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:54:37] "GET / HTTP/1.1" 200 -
+[ 2024-12-02 09:54:39,381 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:54:39] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2024-12-02 09:54:44,781 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:54:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-12-02 09:55:05,807 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:55:05] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-12-02 09:55:09,661 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:55:09] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2024-12-02 09:55:09,995 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 09:55:09] "GET / HTTP/1.1" 200 -
+[ 2024-12-02 10:12:31,430 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:12:31] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-12-02 10:12:31,531 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:12:31] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-12-02 10:12:41,736 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:12:41] "GET / HTTP/1.1" 200 -
+[ 2024-12-02 10:12:41,826 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:12:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-12-02 10:12:44,567 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:12:44] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-12-02 10:12:44,629 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:12:44] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2024-12-02 10:14:38,038 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:14:38] "GET / HTTP/1.1" 200 -
+[ 2024-12-02 10:14:39,028 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:14:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2024-12-02 10:14:40,570 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:14:40] "GET / HTTP/1.1" 200 -
+[ 2024-12-02 10:14:40,653 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 10:14:40] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
